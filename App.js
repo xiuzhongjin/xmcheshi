@@ -46,7 +46,7 @@ const Section = ({children, title}): Node => {
             color: isDarkMode ? Colors.light : Colors.dark,
           },
         ]}>
-        {children}
+        {children}的时候好的好的打电话
       </Text>
     </View>
   );
